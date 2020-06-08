@@ -21,21 +21,22 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
 1. visualize.ipynb:<br>
 
-<p align = 'center'>
-Cats:
-![Cats](/images/Cat.png)
-<br>
+<p align = 'center'>Cats:<br>
+  
+  ![Cats](/images/Cat.png)
+  <br>
 
-Dogs:
-![Dogs](/images/Dog.png)
+  Dogs:
+  ![Dogs](/images/Dog.png)
 </p><br>
 
 
 2. Image Augmentation:<br>
 <p align = 'center'>
-An example on a random image from the dataset.<br>
+  An example on a random image from the dataset.<br>
 
-![Augmented_Image](/images/Image_aug.png)</p>
+  ![Augmented_Image](/images/Image_aug.png)
+</p>
 <br>
 
 
