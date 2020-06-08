@@ -24,7 +24,6 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54765
 <p align = 'center'>Cats:<br>
   
   ![Cats](/images/Cat.png)
-  <br>
 
   Dogs:
   ![Dogs](/images/Dog.png)
