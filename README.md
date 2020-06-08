@@ -47,9 +47,10 @@ BATCH_SIZE = 16<br>
 STEPS_PER_EPOCH = 20000//BATCH_SIZE<br>
 EPOCHS = 20<br>
 <br>
-The CNN model layer sequence goes like:<br>
+<p align = 'center'>The CNN model layer sequence goes like:<br>
 Conv2D -> MaxPooling -> Conv2D -> MaxPooling -> Flatten -> Dense -> Dropout -> Output<br>
 with sigmoid activation for the output layer and relu activation for the rest of the layers with adam optimizer and accuracy as the evaluation metric.
+</p>
 <br>
 <br>
 
