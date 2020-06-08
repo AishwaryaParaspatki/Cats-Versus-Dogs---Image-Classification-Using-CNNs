@@ -1,11 +1,11 @@
 # Cats Versus Dogs - Image Classification Using CNNs
 
-This notebook consists of 3 parts:<br>
+### This notebook consists of 3 parts:<br>
 Image Augmentation<br>
 CNN Model<br>
 VGG16 Model<br>
 
-Technology stack:<br>
+### Technology stack:<br>
 Python<br>
 Keras - TensorFlow<br>
 matplotlib<br>
@@ -21,19 +21,19 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
 1. visualize.ipynb:<br>
 
-Cats:
+<p align = 'center>Cats:
 ![Cats](/images/Cat.png)
 <br>
 
 Dogs:
 ![Dogs](/images/Dog.png)
-<br>
+</p><br>
 
 
 2. Image Augmentation:<br>
-An example on a random image from the dataset.<br>
+<p align = 'center>An example on a random image from the dataset.<br>
 
-![Augmented_Image](/images/Image_aug.png)
+![Augmented_Image](/images/Image_aug.png)</p>
 <br>
 
 
