@@ -21,7 +21,8 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
 1. visualize.ipynb:<br>
 
-<p align = 'center'>Cats:
+<p align = 'center'>
+Cats:
 ![Cats](/images/Cat.png)
 <br>
 
@@ -31,7 +32,8 @@ Dogs:
 
 
 2. Image Augmentation:<br>
-<p align = 'center>An example on a random image from the dataset.<br>
+<p align = 'center'>
+An example on a random image from the dataset.<br>
 
 ![Augmented_Image](/images/Image_aug.png)</p>
 <br>
