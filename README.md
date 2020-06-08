@@ -52,6 +52,9 @@ EPOCHS = 20<br>
 <p align = 'center'>The CNN model layer sequence goes like:<br>
 Conv2D -> MaxPooling -> Conv2D -> MaxPooling -> Flatten -> Dense -> Dropout -> Output<br>
 with sigmoid activation for the output layer and relu activation for the rest of the layers with adam optimizer and accuracy as the evaluation metric.
+  Output:
+  loss: 0.7063166499137878
+  accuracy: 0.778124988079071
 </p>
 <br>
 <br>
