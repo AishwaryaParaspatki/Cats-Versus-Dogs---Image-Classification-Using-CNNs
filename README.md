@@ -21,7 +21,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54765
 
 1. visualize.ipynb:<br>
 
-<p align = 'center>Cats:
+<p align = 'center'>Cats:
 ![Cats](/images/Cat.png)
 <br>
 
