@@ -5,7 +5,7 @@ Image Augmentation<br>
 CNN Model<br>
 VGG16 Model<br>
 
-Technology stack:
+Technology stack:<br>
 Python<br>
 Keras - TensorFlow<br>
 matplotlib<br>
@@ -20,7 +20,9 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54765
 ### Notebooks:
 1. visualize.ipynb:<br>
 <br>
+<br>
 ![Cats](/images/Cat.png)
+<br>
 <br>
 <br>
 ![Dogs](/images/Dog.png)
@@ -29,6 +31,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54765
 <br>
 2. Image Augmentation:<br>
 An example on a random image from the dataset.<br>
+<br>
 ![Augmented_Image](/images/Image_aug.png)
 <br>
 <br>
