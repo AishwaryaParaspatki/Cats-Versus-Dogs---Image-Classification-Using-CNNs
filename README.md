@@ -51,7 +51,7 @@ The CNN model layer sequence goes like:<br>
 Conv2D -> MaxPooling -> Conv2D -> MaxPooling -> Flatten -> Dense -> Dropout -> Output<br>
 with sigmoid activation for the output layer and relu activation for the rest of the layers with adam optimizer and accuracy as the evaluation metric.
 <br>
-
+<br>
 
 4. VGG 16:<br>
 Taking the input size of 128 with a batch size of 16 examples, I have trained the VGG16 model from keras, by freezing the pretrained layers, for 3 epoches with 200 steps per epoch using imagenet dataset's pretrained weights. 
