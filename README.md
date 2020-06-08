@@ -60,4 +60,6 @@ with sigmoid activation for the output layer and relu activation for the rest of
 <br>
 
 4. VGG 16:<br>
-Taking the input size of 128 with a batch size of 16 examples, I have trained the VGG16 model from keras, by freezing the pretrained layers, for 3 epoches with 200 steps per epoch using imagenet dataset's pretrained weights. 
+Taking the input size of 128 with a batch size of 16 examples, I have trained the VGG16 model from keras, by freezing the pretrained layers, for 3 epoches with 200 steps per epoch using imagenet dataset's pretrained weights.<br>
+<p align = 'center'>loss: 0.47205138206481934<br>
+accuracy: 0.8762500286102295</p>
