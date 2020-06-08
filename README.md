@@ -20,16 +20,19 @@ https://www.microsoft.com/en-us/download/details.aspx?id=54765
 ### Notebooks:
 
 1. visualize.ipynb:<br>
+
+Cats:
 ![Cats](/images/Cat.png)
 <br>
 
+Dogs:
 ![Dogs](/images/Dog.png)
 <br>
 
 
 2. Image Augmentation:<br>
 An example on a random image from the dataset.<br>
-<br>
+
 ![Augmented_Image](/images/Image_aug.png)
 <br>
 
